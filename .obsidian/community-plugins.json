@@ -12,5 +12,19 @@
   "table-editor-obsidian",
   "obsidian-kanban",
   "quickadd",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition",
+  "editing-toolbar",
+  "obsidian-linter",
+  "periodic-notes",
+  "file-explorer-note-count",
+  "obsidian-plugin-toc",
+  "nldates-obsidian",
+  "obsidian-emoji-toolbar",
+  "obsidian-mindmap-nextgen",
+  "obsidian-image-toolkit",
+  "sheet-plus",
+  "mermaid-tools",
+  "obsidian-banners",
+  "pexels-banner"
 ]
