@@ -200,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +225,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "b9201a516a7ad786",
+  "active": "8b9b3b5412aa70b9",
   "lastOpenFiles": [
     "assets/Manim.png",
     "Readme.md",
