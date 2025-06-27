@@ -1,0 +1,38 @@
+{
+  "nodePath": "default",
+  "nodePathUpdatedToNode20": false,
+  "enabled": true,
+  "hotkeys": {
+    "accept": "Tab",
+    "cancel": "Escape",
+    "request": "Cmd-Shift-/",
+    "partial": "Cmd-Shift-.",
+    "next": "Cmd-Shift-ArrowDown",
+    "disable": "Cmd-Shift-ArrowRight"
+  },
+  "suggestionDelay": 500,
+  "debug": false,
+  "onlyOnHotkey": false,
+  "onlyInCodeBlock": false,
+  "exclude": [],
+  "deviceSpecificSettings": [
+    "nodePath"
+  ],
+  "useDeviceSpecificSettings": false,
+  "proxy": "",
+  "chatSettings": {
+    "deviceCode": "26160b9631624d0bcf477fb2cee42af5031beba1",
+    "pat": "ghu_McnQWgh7sBgUR4ZRQdM4HAeLoRoflL3MoADE",
+    "accessToken": {
+      "token": "tid=8a00f0d96e30b7bd23c69fe8c8b597b6;exp=1751042862;sku=free_educational_quota;proxy-ep=proxy.individual.githubcopilot.com;st=dotcom;chat=1;cit=1;malfil=1;editor_preview_features=1;mcp=0;ccr=1;rt=1;8kp=1;ip=156.226.173.45;asn=AS61112:e9ab7938db8c6cee3357d6eddd8d51873e4638382c5112be920c9386c24e1ed2",
+      "expiresAt": 1751042862
+    },
+    "selectedModel": {
+      "label": "Claude 3.7 Sonnet",
+      "value": "claude-3.7-sonnet"
+    }
+  },
+  "systemPrompt": "You are GitHub Copilot, an AI assistant. You are helping the user with their tasks in Obsidian.",
+  "invertEnterSendBehavior": false,
+  "extraCACerts": ""
+}

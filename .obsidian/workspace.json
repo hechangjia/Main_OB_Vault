@@ -104,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "测试 的反向链接列表"
             }
           },
           {
@@ -122,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "测试 的出链列表"
             }
           },
           {
@@ -150,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "测试 的大纲"
             }
           },
           {
@@ -181,13 +184,23 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "8f2b496342f7c6cc",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +224,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "8b9b3b5412aa70b9",
+  "active": "b9201a516a7ad786",
   "lastOpenFiles": [
     "assets/Manim.png",
     "Readme.md",
