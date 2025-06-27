@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Minimal",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "JetBrains Mono,Cascadia Mono,Fira Code",
+  "interfaceFontFamily": "霞鹜文楷,思源宋体",
+  "textFontFamily": "思源宋体"
+}

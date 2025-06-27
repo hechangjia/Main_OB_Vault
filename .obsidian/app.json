@@ -1,0 +1,12 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "trashOption": "local",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newLinkFormat": "shortest",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets"
+}
