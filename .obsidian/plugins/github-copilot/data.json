@@ -1,7 +1,7 @@
 {
   "nodePath": "X:\\Scoop\\apps\\nvm\\current\\nodejs\\nodejs\\node.exe",
   "nodePathUpdatedToNode20": true,
-  "enabled": true,
+  "enabled": false,
   "hotkeys": {
     "accept": "Tab",
     "cancel": "Escape",

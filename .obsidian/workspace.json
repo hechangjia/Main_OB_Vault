@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "测试.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cffd20bd6ac7834b",
@@ -221,15 +221,37 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "sheet-plus:创建 Excel 文件": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "8b9b3b5412aa70b9",
   "lastOpenFiles": [
-    "assets/Manim.png",
+    "第二章.md",
+    "第一章.md",
     "Readme.md",
+    "assets/banner_2.jpg",
+    "assets/image/banner_2.jpg",
+    "assets/image/banner_3.jpg",
+    "assets/image/banner_1.jpg",
+    "assets/image/Manim.png",
+    "assets/video/TimeShiftSystems.mp4",
+    "assets/第二章.md",
+    "assets/video",
+    "assets/image/阶跃函数图像.png",
+    "assets/image/阶跃信号.png",
+    "assets/image/系统函数图.drawio.svg",
+    "assets/image/系统函数图.drawio.png",
+    "assets/image/系统函数图.drawio",
+    "assets/image/时延阶跃函数图像2.png",
+    "assets/image",
+    "assets/code/timeshift_systems.py",
+    "assets/code/jieyue_func.py",
+    "assets/code",
+    "Clippings/Make a README.md",
+    "Clippings/GitHub Git Cheat Sheet.md",
+    "Clippings",
     "测试.md",
-    "assets/Pasted image 20250628000234.png",
     "assets"
   ]
 }

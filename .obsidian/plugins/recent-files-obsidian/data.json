@@ -5,8 +5,20 @@
       "path": "测试.md"
     },
     {
+      "basename": "第二章",
+      "path": "第二章.md"
+    },
+    {
+      "basename": "第一章",
+      "path": "第一章.md"
+    },
+    {
       "basename": "Readme",
       "path": "Readme.md"
+    },
+    {
+      "basename": "TimeShiftSystems",
+      "path": "assets/video/TimeShiftSystems.mp4"
     }
   ],
   "omittedPaths": [],

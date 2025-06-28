@@ -1,7 +1,7 @@
 {
   "minimumDepth": 2,
   "maximumDepth": 6,
-  "listStyle": "bullet",
+  "listStyle": "number",
   "useMarkdown": true,
   "githubCompat": true
 }
