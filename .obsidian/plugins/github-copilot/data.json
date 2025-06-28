@@ -1,6 +1,6 @@
 {
-  "nodePath": "default",
-  "nodePathUpdatedToNode20": false,
+  "nodePath": "X:\\Scoop\\apps\\nvm\\current\\nodejs\\nodejs\\node.exe",
+  "nodePathUpdatedToNode20": true,
   "enabled": true,
   "hotkeys": {
     "accept": "Tab",
