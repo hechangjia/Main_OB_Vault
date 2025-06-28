@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "测试.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
